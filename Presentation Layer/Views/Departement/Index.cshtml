@@ -1,0 +1,56 @@
+﻿@model IEnumerable<DepartmentViewModel>
+@{
+    ViewData["Title"] = "Index";
+    var Message = ViewBag.Message;
+}
+@if (Message is not null)
+{
+    <div class="alert alert-success" id="messageDiv">
+        @Message
+    </div>
+}
+<script>
+    setTimeout(function () {
+        var messageDiv = document.getElementById('messageDiv');
+        if (messageDiv) {
+            messageDiv.style.display = 'none';
+        }
+    }, 5000);
+</script>
+<h1>All Departments</h1>
+<br/>
+<br/>
+<a asp-controller="Departement" asp-action="Create" class="btn btn-primary">Create New Department</a>
+<br/>
+@if (Model.Count() > 0)
+{
+ <table class="table table-striped table-hover mt-3">
+     <thead>
+         <tr>
+             <th>@Html.DisplayNameFor(D=>D.Code)</th>
+             <th>@Html.DisplayNameFor(D=>D.Name)</th>
+             <th>@Html.DisplayNameFor(D=>D.DateOfCreation)</th>
+             <th>Details</th>
+             <th>Update</th>
+             <th>Delete</th>
+         </tr>
+     </thead>
+     <tbody>
+         @foreach(var item in Model)
+         {
+             <tr>
+                 <td>@item.Code</td>
+                 <td>@item.Name</td>
+                 <td>@item.DateOfCreation</td>
+                 <partial name="_ButtonPartialView" model="item.Id.ToString()" />
+             </tr>
+         }
+     </tbody>
+    </table>
+}
+else
+{
+    <div class="mt-4 alert alert-warning ">
+          <h3>There Is No Departments</h3>
+    </div>
+}

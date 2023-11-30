@@ -1,0 +1,54 @@
+﻿@model EmployeeViewModel
+@{
+    var Departments = new SelectList(ViewBag.Departments,"Id","Name");
+}
+<div class="form-group">
+    <label class="col-form-label" asp-for="Name"></label>
+    <input class="form-control" asp-for="Name">
+    <span class="text-danger" asp-validation-for="Name"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Age"></label>
+    <input class="form-control" asp-for="Age">
+    <span class="text-danger" asp-validation-for="Age"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Salary"></label>
+    <input class="form-control" asp-for="Salary">
+    <span class="text-danger" asp-validation-for="Salary"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Departement"></label>
+    <select class="form-control" asp-for="DepartementID" asp-items="@Departments">
+        <option value="@null">------ Select Department ------</option>
+    </select>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Address"></label>
+    <input class="form-control" asp-for="Address">
+    <span class="text-danger" asp-validation-for="Address"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Email"></label>
+    <input class="form-control" asp-for="Email">
+    <span class="text-danger" asp-validation-for="Email"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="PhoneNumber"></label>
+    <input class="form-control" asp-for="PhoneNumber">
+    <span class="text-danger" asp-validation-for="PhoneNumber"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Hiredate"></label>
+    <input class="form-control" asp-for="Hiredate">
+    <span class="text-danger" asp-validation-for="Hiredate"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="IsActive"></label>
+    <input class="form-control" asp-for="IsActive">
+    <span class="text-danger" asp-validation-for="IsActive"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Image"></label>
+    <input class="form-control" asp-for="Image">
+</div>

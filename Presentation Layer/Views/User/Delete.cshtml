@@ -1,0 +1,12 @@
+﻿@model UserViewModel
+@{
+    ViewData["Title"] = "Delete User";
+}
+
+<h1>Are You sure You Wanna Delete This User?</h1>
+<form asp-action="Delete">
+    <partial name="PartialViews/_DeleteDetailsPartialView" />    
+    <input type="submit" value="Delete" class="btn btn-danger" /> |
+    <a asp-action="Index" asp-controller="User" class="btn btn-light">Back To List</a>
+</form>
+

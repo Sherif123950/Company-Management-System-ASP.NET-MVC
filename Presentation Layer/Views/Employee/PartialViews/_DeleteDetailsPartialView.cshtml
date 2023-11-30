@@ -1,0 +1,54 @@
+﻿@model EmployeeViewModel
+@{
+    var Departments = new SelectList(ViewBag.Departments, "Id", "Name");
+}
+<div class="form-group">
+    <img src="~/Files/Images/@Model.ImageName" width="75" class="img-fluid rounded-circle" />
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Name"></label>
+    <input class="form-control" asp-for="Name" readonly>
+
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Age"></label>
+    <input class="form-control" asp-for="Age" readonly>
+
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Salary"></label>
+    <input class="form-control" asp-for="Salary" readonly>
+
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Departement"></label>
+    <select class="form-control" asp-for="DepartementID" asp-items="@Departments">
+        <option value="@null">------ Select Department ------</option>
+    </select>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Address"></label>
+    <input class="form-control" asp-for="Address" readonly>
+
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Email"></label>
+    <input class="form-control" asp-for="Email" readonly>
+
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="PhoneNumber"></label>
+    <input class="form-control" asp-for="PhoneNumber" readonly>
+
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Hiredate"></label>
+    <input class="form-control" asp-for="Hiredate" readonly>
+
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="IsActive"></label>
+    <input class="form-control" asp-for="IsActive" readonly>
+
+</div>
+

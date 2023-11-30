@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\Files\\Images\\3bf04771-0651-4655-8d8b-79fa1e35b8df294940382_2001885626680100_5707260829067793742_n.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\3bf04771-0651-4655-8d8b-79fa1e35b8df294940382_2001885626680100_5707260829067793742_n.jpg"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\Files\\Images\\aff6bd13-537d-476f-ac80-50462c97b833defference between struct and class.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\aff6bd13-537d-476f-ac80-50462c97b833defference between struct and class.jpg"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\css\\AuthStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyleSheet.css"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ROUTE\\Sessions\\ASP.NET MVC\\MVC Project\\Web Appliaction\\Presentation Layer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Presentation Layer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Presentation Layer.props",
+      "PackagePath": "build\\Presentation Layer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Presentation Layer.props",
+      "PackagePath": "buildMultiTargeting\\Presentation Layer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Presentation Layer.props",
+      "PackagePath": "buildTransitive\\Presentation Layer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

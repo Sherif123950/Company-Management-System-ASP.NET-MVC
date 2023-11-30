@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Edit User";
+}
+
+<h1>Edit User</h1>
+<form asp-action="Edit" enctype="multipart/form-data">
+    <partial name="PartialViews/_CreateEditPartialView" />
+    <input type="submit" value="Save" class="btn btn-primary" /> |
+    <a asp-action="Index" asp-controller="User" class="btn btn-light">Back To List</a>
+</form>
+@section ValidationScripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+}
